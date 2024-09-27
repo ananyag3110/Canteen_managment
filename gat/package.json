@@ -1,0 +1,19 @@
+{
+  "name": "gat_canteen",
+  "version": "1.0.0",
+  "description": "college canteen management website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ananyag3110/gat_canteen.git"
+  },
+  "author": "ananya_g",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananyag3110/gat_canteen/issues"
+  },
+  "homepage": "https://github.com/ananyag3110/gat_canteen#readme"
+}
